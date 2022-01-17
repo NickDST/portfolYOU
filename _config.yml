@@ -3,7 +3,7 @@ title               : Nicholas Ho
 description         : >-
                       Hey! My name is Nicholas Ho, a mathematics and computer science student passionate about designing 
                       deep learning architectures to solve unique, challenging problems in biology, physics and chemistry!
-baseurl             : "/nickdst.github.io"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : NickDST/nickdst.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : NickDST/nickdst.github.io
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
