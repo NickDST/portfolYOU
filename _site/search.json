@@ -1,11 +1,19 @@
 [
   
     {
-      "title"    : "What is version control?",
+      "title"    : "How I use Obsidian for my Research Knowledge-Base",
       "category" : "",
-      "tags"     : "Version Control",
-      "url"      : "/blog/what-is-version-control",
-      "date"     : "2016-02-09 00:00:00 -0700"
+      "tags"     : "Notes, Vim",
+      "url"      : "/blog/obsidian",
+      "date"     : "2022-01-15 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "How the different categories of Reinforcement Learning fit together",
+      "category" : "",
+      "tags"     : "Notes, Reinforcement Learning, Deep Learning",
+      "url"      : "/blog/rl",
+      "date"     : "2022-01-10 00:00:00 -0700"
     } ,
   
     {

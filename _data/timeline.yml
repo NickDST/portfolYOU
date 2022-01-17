@@ -1,5 +1,5 @@
 - title: Assistant Researcher at the Structural Systems Biology Lab at Biodesign Institute
-  from: 2020
+  from: May 2020
   to: present
   description: Developed deep learning models to evolve noisy dynamical molecular systems using Neural SDEs, Graph Neural Networks, Hamiltonian Neural Networks, and more. 
                 • Utilizing Reinforcement Learning to explore protein conformational space.
@@ -12,6 +12,31 @@
   from: June 2021
   to: August 2021
   description: Developed a new physics-inspired framework for analyzing soccer ball dynamics by modeling underlying potential landscapes.
+
+- title: Assistant Researcher under Ferran Garcia Pichel at Biodesign Institute
+  from: May 2020
+  to: May 2021
+  description: Developed a Python Plugin for Qiime2 for the relationship between ribosomal gene copy number and size.
+
+- title: Assistant Researcher under Huansheng Cao at Biodesign Institute
+  from: August 2019
+  to: May 2021
+  description: Conducted data engineering and analysis on genomes assembled from a metagenome in order to study the strain level variance within microbiome communities. 
+               Implemented a web system that highlighted which genes present in a pathway for particular cyanobacteria species using PFAM’s Hidden Markov Model package, JavaScript, SQL databases, shell and Python.
+
+
+- title: Summer Intern at Western Tool & Supply
+  from: June 2020
+  to: July 2020
+  description: •	Implemented and trained an LSTM Recurrent Neural Network to predict customer purchase likelihoods. 
+              •	Integrating and using Bluetooth LE between microcontrollers and Google Chrome into their IOT system.
+
+
+- title: Virtual Helios Scholar at TGen
+  from: May 2020
+  to: August 2020
+  description: Due to covid, the Helios Scholars Program was moved to a virtual format.
+
 
 
 - title: Mathematics and Computer Science Student at Arizona State University
