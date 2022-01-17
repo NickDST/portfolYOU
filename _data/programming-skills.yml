@@ -1,11 +1,11 @@
-- name: HTML5/CSS3
+- name: Googling
   percentage: 90
-  color: danger
+  color: success
 
-- name: Go
-  percentage: 80
+- name: Sleep
+  percentage: 20
   color:
 
-- name: Python
-  percentage: 70
+- name: Existential Dread
+  percentage: 99
   color: secondary

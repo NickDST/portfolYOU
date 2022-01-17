@@ -1,9 +1,8 @@
 ### Site Settings ###
-title               : quick Test!
+title               : Nicholas Ho
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Hey! My name is Nicholas Ho and I'm passionate about deep learning 
+                      architectures! 
 baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : NickDST/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : NickDST/portfolYOU
@@ -14,6 +13,7 @@ open_new_tab        : false                             # Opens external URLs in
 plugins:
   - jemoji
 
+markdown: kramdown
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
@@ -25,23 +25,23 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Nicholas Ho
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  image             : assets/headshot.jpg
+  behance           : Nick_DST
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : learningnickk@gmail.com
+  # facebook          : your_username
+  github            : NickDST
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+  linkedin          : /nicholas-ho-9a459519a/
+  # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+  twitter           : eigenNick
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
