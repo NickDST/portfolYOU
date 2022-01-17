@@ -8,7 +8,10 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+My name is Nicholas Ho and I am a computer science and mathematics undergraduate at Arizona State University. My career goal is to pursue a PhD in neuroscience-inspired machine learning focusing on biomedical applications.
+
+I also have experience working with computational genomic analysis, full stack web development using various different frameworks and backends, data analysis and visualization with Javascript and Python, developing IOT systems with micro-controllers and cloud computing on Google Cloud Platform. 
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
