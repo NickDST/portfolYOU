@@ -1,5 +1,5 @@
 ---
-title: How to undo your git failure?
+title: quick Test on loading mathematics
 tags: [External Post, Git]
 style: fill
 color: warning
@@ -12,5 +12,6 @@ usemathjax: true
 
 $$ax = b$$
 
+It worked!
 
 
