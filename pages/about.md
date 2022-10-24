@@ -9,9 +9,9 @@ weight: 3
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 
-My name is Nicholas Ho and I am a computer science and mathematics undergraduate at Arizona State University. My career goal is to pursue a PhD in neuroscience-inspired machine learning focusing on biomedical applications.
+I am a computer science and mathematics undergraduate at Arizona State University. My career goal is to pursue a PhD in using multimodal and multiscale ML tools for studying biological systems and drug development. 
 
-I also have experience working with computational genomic analysis, full stack web development using various different frameworks and backends, data analysis and visualization with Javascript and Python, developing IOT systems with micro-controllers and cloud computing on Google Cloud Platform. 
+I work with Professor Abhishek Singharoy for structural systems biology and looking at ways to use ML and RL to drive SMD simulations. I also work with Professor Marinka Zitnik and Harvard Medical for drug-drug interaction prediction!
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

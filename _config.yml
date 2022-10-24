@@ -1,8 +1,8 @@
 ### Site Settings ###
 title               : Nicholas Ho
 description         : >-
-                      Hey! My name is Nicholas Ho, a mathematics and computer science student passionate about designing 
-                      deep learning architectures to solve unique, challenging problems in biology and physics!
+                      Hey! My name is Nicholas Ho, a mathematics and computer science senior at Arizona State University. Aside from reusing the same
+                      profile picture since freshman year, my passions lie in representation learning for complex problems in biology or physics. 
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : NickDST/nickdst.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : NickDST/nickdst.github.io
@@ -26,7 +26,7 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Nicholas Ho
   image             : assets/headshot.jpg
-  behance           : Nick_DST
+  # behance           : Nick_DST
 # dribbble          : your_username
   email             : learningnickk@gmail.com
   # facebook          : your_username

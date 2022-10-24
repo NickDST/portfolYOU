@@ -1,17 +1,29 @@
-- title: Assistant Researcher at the Structural Systems Biology Lab at Biodesign Institute
-  from: May 2020
-  to: present
-  description: Developed deep learning models to evolve noisy dynamical molecular systems using Neural SDEs, Graph Neural Networks, Hamiltonian Neural Networks, and more. 
-                • Utilizing Reinforcement Learning to explore protein conformational space.
-                • Helped develop a Conditional Generative Adversarial Network to generate minimum action pathways for dynamics.
-                • Did extensive testing on the model capacity of LSTMs to be used to evolve a dynamical system.
-                • Under the guidance of John Vant, I've been using a mix of TCL, Python, and shell scripts to deploy molecular dynamic simulations in order to see how conformational changes on Hexokinase 1 influence its binding mechanisms with the mitochondria. I aim to better understanding the biological mechanisms that mitochondria function by in order to eventually better understand how to maintain proper mitochondrial distributions in neurons to combat neurodegenerative diseases.
 
+- title: Visiting Research Scholar for Harvard Medical School Department of Biomedical Informatics
+  from: June 2022
+  to: Present
+  description: • Accepted as a visiting research fellow at Harvard DBMI through a highly competitive application process.<br>
+                • Currently developing a novel machine learning architecture to deal with missing and imbalanced modalities. Conducted extensive evaluation with dozens of hyperparameter sweeps to benchmark and rigorously validate the model at various points.
+
+
+
+
+
+- title: Research Associate at the Structural Systems Biology Lab at Biodesign Institute
+  from: May 2020
+  to: Present
+  description: Worked as a Research Associate in the Singharoy Lab. Lead research for my honors thesis to utilize deep ML methods with statistical mechanical methodologies. <br>  <br> 
+                • Lead the development of using reinforcement learning algorithms alongside NAMD molecular dynamics sims for biologically relevant pathways. <br>
+                • Enhanced and accelerated the differentiable simulator TorchMD into JAX in order to lever- age the JIT computation and ran differentiable simulations on biomolecules. Up to 20 times computational speedup even without using the parallelizability on GPU. <br>
+                • Contributed to developing and testing a Conditional Generative Adversarial Network to generate minimum action pathways for dynamics. <br>
+                • Implemented and used deep learning models to evolve noisy dynamical molecular systems using Neural SDEs, Graph Neural Networks, Hamiltonian Neural Networks, and more. <br>
+                # • Used a mix of TCL, Python, and shell scripts to deploy molecular dynamic simulations in order to see how conformational changes on Hexokinase 1 influence its binding mechanisms with the mitochondria. I aim to better understanding the biological mechanisms that mitochondria function by in order to eventually better understand how to maintain proper mitochondrial distributions in neurons to combat neurodegenerative diseases.<br>
 
 - title: Undergraduate Summer Research Intern at Carnegie Mellon
   from: June 2021
   to: August 2021
-  description: Developed a new physics-inspired framework for analyzing soccer ball dynamics by modeling underlying potential landscapes.
+  description: •	Accepted as a visiting research fellow in CMU Statistics through a highly competitive summer research program. <br>
+                • Created and a novel methodology for using stochastic simulators for soccer game predictions. Our method had comparable results to models trained directly on scores.
 
 - title: Assistant Researcher under Ferran Garcia Pichel at Biodesign Institute
   from: May 2020
@@ -36,8 +48,6 @@
   from: May 2020
   to: August 2020
   description: Due to covid, the Helios Scholars Program was moved to a virtual format.
-
-
 
 - title: Mathematics and Computer Science Student at Arizona State University
   from: August 2019
